@@ -2,6 +2,14 @@
   César Perales (CdeCasurpie)  
 </h1>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=CdeCasurpie&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/CdeCasurpie?pet-id=715319179183774380"
+    width="600"
+    height="120"
+  />
+</a>
+
 ```
  🕹️ Level 19 Programmer  
  💾 Class: Computer Scientist + Software Dev + 3D Alchemist  
