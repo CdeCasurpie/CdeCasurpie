@@ -2,10 +2,14 @@
   César Perales (CdeCasurpie)  
 </h1>
 
-``🕹️ Level 19 Programmer``  
-``💾 Class: Computer Scientist + Software Dev + 3D Alchemist``  
-``📍 Region: Lima, Perú``  
-``🎯 Quest: Code solutions, teach to code, and build what matters``  
+```
+ 🕹️ Level 19 Programmer  
+ 💾 Class: Computer Scientist + Software Dev + 3D Alchemist  
+ 📍 Region: Lima, Perú
+ 🎯 Quest: Code solutions, teach to code, and build what matters  
+```
+
+
 
 ---
 
@@ -28,9 +32,9 @@
 
 ### 👓 Recent Codex Entries
 ```
-+ Created particle-life simulation using attraction/repulsion rules
-+ Developed a clean state machine for procedural animation
-+ Experimenting with human brain-inspired GPT-based modules
+ + Created particle-life simulation using attraction/repulsion rules
+ + Developed a clean state machine for procedural animation
+ + Experimenting with human brain-inspired GPT-based modules
 ````
 
 ---
