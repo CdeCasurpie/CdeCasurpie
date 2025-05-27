@@ -6,7 +6,7 @@
   <img
     src="https://render.gitanimals.org/lines/CdeCasurpie?pet-id=715319179183774380"
     width="600"
-    height="120"
+    height="160"
   />
 </a>
 
